@@ -5,7 +5,7 @@ $tg_bot_token = "7632341419:AAH6elhZXZLBGSsWGg5lKd5IjLq08tPtCSk";
 $chat_id = "-4650948466";
 
 // Масив полів, які треба обробити
-$fields = ['firstName', 'phone', 'count'];
+$fields = ['firstName', 'phone'];
 
 $text = "Новий запит з форми:\n";
 
